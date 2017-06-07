@@ -19,11 +19,13 @@ Things to edit to make more accurate:
    Will definitely need to do some manipulation but can possibly help alot
 7. Group family size by ticket instead of Parch & SibSp
 8. Combine & stack multiple prediction models to yield a more accurate result
+9. How to acocunt for dependence among the variables? Are there redundancies?
+   Sex and Age are very related to title, not very independent
 
 Most Important Variables:
 Sex
 Age
-Title
+Title (maybe redundant?)
 Wealth (see point 6)
 
 
