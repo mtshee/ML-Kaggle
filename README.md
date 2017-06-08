@@ -28,4 +28,12 @@ Age
 Title (maybe redundant?)
 Wealth (see point 6)
 
+Resources used for Python competition submission:
+Ensemble stacking Python: https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python
+Kaggle Ensembling Guide: https://mlwave.com/kaggle-ensembling-guide/
+Python Tutorial: https://www.kaggle.com/helgejo/an-interactive-data-science-tutorial
+More Python Help: http://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggle-challenge.html
+Scikit Learn Tutorial: https://www.kaggle.com/jeffd23/scikit-learn-ml-from-start-to-finish
+
+
 
