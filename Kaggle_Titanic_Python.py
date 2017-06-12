@@ -1,3 +1,5 @@
+#Install on personal machine up to date statsmodels:
+#pip install -U statsmodels
 #Ignore Warnings
 import warnings
 warnings.filterwarnings('ignore')
